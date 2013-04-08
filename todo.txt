@@ -1,0 +1,9 @@
+  Dépend: python
+  Dépend: python
+  Dépend: python-central
+  Dépend: python-twisted-core
+  Dépend: python-twisted-web
+  Dépend: python-elixir
+  Dépend: python-configobj
+  Dépend: python-pam
+  Dépend: python-formencode
